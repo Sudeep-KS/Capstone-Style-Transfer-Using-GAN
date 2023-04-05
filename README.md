@@ -26,15 +26,3 @@ Tr2 folder has <b>TrainT2</b> which has 46 T2 weighted MRI images.
 3. Data Preprocessing
 4. Model Building
 5. Model Training
-
-## Python Files
-1. Utils.py : Contains utility class for data handling and some utility function
-2. GifCreator.py : Utility code to create Gif using the images
-3. CycleGAN.py : Contains cycle GAN utility code which handles training and visualization of the Cycle GAN results
-4. main.py : Contains the network definitions for discriminator and generator.
-
-## Running the project
-python main.py
-
-## side note
-modify main.py file accordingly to change epochs, batch size, training data paths and network definitions
